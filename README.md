@@ -3,7 +3,7 @@
 This model uses geotagged streetview imagery and applies a custom convolutional neural network to automatically categorize street segments in a London neighbourhood to a road function and a local amenity. As benchmark and to improve model training accuracy, 406 random images were manually classified based on their observed road function (e.g., pedestrian road) and amenity (e.g., Food & Beverages).
 
 ## Pre-Requisites
-  - Have the entire London_UK folder and the same folder structure as specified in the project.
+  - Have the entire London_UK folder (including all images in the imagedb folder) and the same folder structure as specified in the project.
 
 ## Instructions on how to run the model
 ### Run the trainer notebook
